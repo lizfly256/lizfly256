@@ -1,6 +1,6 @@
 -  Hi, I’m Liz.
--  I’m interested in Data Science.
--  I’m focusing on learning python... but occasionally take a side quest with JavaScript or HTML. 
+-  I'm currently working on my M.S. in Data Science
+
 
 <!---
 lizfly256/lizfly256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
